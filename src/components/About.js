@@ -16,7 +16,7 @@ export default function About() {
                     <h1 className='text-[20px] md:text-[40px] font-bold float-right text-white'>All About PPC</h1>
                 </div>
                 <div className='w-full md:w-2/3 px-16'>
-                    <p className='text-[20px] text-black/50 font-bold'>Proficio Persona Club is the personality development club of GLA University.The Latin word <span className='text-black/70'>"Proficio"</span>  means <span className='text-black/70'>"I advance,make progress, make headway".</span>  The word <span className='text-black/70'>"Persona"</span> throws light on the aspect of the character that is presented by the students.The Club focuses on the overall personality development of students.</p>
+                    <p className='text-[20px] text-black/50 font-bold'>Proficio Persona Club is the personality development club of GLA University. The Latin word <span className='text-black/70'>"Proficio"</span>  means <span className='text-black/70'>"I advance,make progress, make headway".</span> The word <span className='text-black/70'>"Persona"</span> throws light on the aspect of the character that is presented by the students.The Club focuses on the overall personality development of students.</p>
                 </div>
             </div>
             <div className='flex flex-col md:flex-row gap-y-6'>
@@ -26,7 +26,7 @@ export default function About() {
                 <div className='flex-1'>
                     <h1 className='text-black px-16 font-bold font-serif text-[30px] md:text-[50px]'>Mission And Visions</h1>
                     <div className='px-16 text-black/50 flex flex-col'>
-                        <p className='text-[17px] md:text-[25px] font-semibold'>The mission and visions of Proficio Persona Clubare as follows:-</p>
+                        <p className='text-[17px] md:text-[25px] font-semibold'>The mission and visions of Proficio Persona Club are as follows:-</p>
                         <ol className='my-4 flex flex-col gap-y-2 text-[15px] md:text-[20px]' style={{ listStyle: 'disc' }}>
                             <li>To develop a character with professional competence. </li>
                             <li>To help the students discover hidden capabilities.</li>
