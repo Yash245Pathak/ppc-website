@@ -25,5 +25,11 @@
     background-position: right center;
 }
 .over{
-    background: linear-gradient(#1107feb3, rgba(0, 224, 254, 0.7));
+    background: linear-gradient(rgba(17, 7, 254, 0.7), rgba(0, 224, 254, 0.7));
+}
+.cover{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
